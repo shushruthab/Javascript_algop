@@ -7,11 +7,11 @@
 
 ## Description
 
-This is an algorithmic exercise to tackle common alorithmic patterns in Javascript.  
+This is an algorithmic exercise to tackle common problem-solving patterns in Javascript.  
 
 ## Key Functions
 
-The repository consists of 9 separate files for each function and 9 other testing scripts for these functions. The description of the requirement and constrainst is in these files.  
+This repository consists of 9 separate files for each function and 9 other testing scripts for these functions. The description of the requirements and constraints is in these files.  
 
 ## Getting Started
 
